@@ -8,4 +8,6 @@ Pueden hacer lo que quieran...
 
 
 ### Update desde github
-Cambiado desde github
+cambiado desde github
+### Update desde local
+Cambiado desde local
